@@ -1,0 +1,34 @@
+WHAT IS THE GENERATION METHOD? 
+
+The Generation Method is an important element in the Carbon Footprint Calculator, allowing you to specify how (or from where) your electricity is sourced. Each generation method has a different environmental impact, measured in terms of CO2e (carbon dioxide equivalent) emissions. Here's what you need to know about the Generation Method:
+
+The Generation Method refers to the process by which your electricity is produced. Different methods have varying levels of CO2e emissions associated with them. By selecting the correct method, you can ensure an accurate calculation of your carbon footprint.
+
+
+Choosing the Right Generation Method:
+
+1. Carefully review the available generation methods in the combo box.
+2. Select the one that most closely aligns with the source of your electricity.
+3. The amount of CO2e emitted by the selected source (per unit) will appear beneath the combo box
+
+
+Understanding CO2e Emissions:
+
+Each generation method has a unique CO2e emissions value associated with it. This value reflects the amount of carbon dioxide equivalent emissions produced per unit of electricity consumed. Choosing the accurate method helps ensure precise carbon footprint calculations.
+
+
+Missing Generation Methods:
+
+If you believe a generation method is missing from the list, please contact an administrator. They can consider adding missing generation methods.
+
+
+Frequently Asked Questions (FAQs):
+
+1. What if my electricity source doesn't fit any available generation method? 
+ Choose the closest option, or contact an administrator to add a missing generation method.
+2. Can I change the generation method later? 
+ No, you cannot modify the Generation Method for a certain calculation at all after you clicked the Submit button.
+
+If you encounter any errors or issues during the login process or have questions, feel free to contact a developer or administrator.
+
+Thank you for using the Login Form to access the Carbon Footprint Calculator! Your commitment to reducing your carbon footprint is appreciated!

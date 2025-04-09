@@ -1,0 +1,35 @@
+VIEW DATABASES  HELP
+Display and Filter tblElectricity.
+
+The Database Grid presents the contents of tblElectricity, showcasing the carbon footprint data of all the users. You can utilize the provided options to refine and sort the presented query results according to your preferences.
+
+
+Filtering Options:
+
+* Emission Type:
+Display records exclusively matching the selected emission type.
+
+*Date Between: 
+Show entries within the specified date range, including the given dates.
+
+* Username: 
+View records associated with a particular username.
+
+To filter by multiple criteria simultaneously, click "Display All" to apply all three filters together. To filter by a single criteria click "Display" next to the options you want to filter by.
+
+
+Calculation Options:
+
+* Calculate Info:
+Choose a calculation type from the first combo box, then select an operator from the second combo box. Use the spin edit control to set a numeric value. The query will display outcomes that meet your specified criteria.
+
+* Country: Select a country to exclusively view records associated with users from the chosen country.
+
+* User Summary: Pick a username to generate a summary. This summary will include the SUM, AVG (Average), MIN (Minimum), and MAX (Maximum) of the chosen user's entries.
+
+
+* Reset Buttons:
+If you need to clear the entered information and start over, you can use the "Reset" button. This will reset all the fields on the panel on which the button is located.
+
+
+If you encounter any errors or issues during the signup process or have questions, feel free to contact a developer.

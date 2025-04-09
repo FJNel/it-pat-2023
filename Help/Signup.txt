@@ -1,0 +1,54 @@
+SIGNUP HELP
+
+The Signup Form allows you to create an account for the Carbon Footprint Calculator. Follow these steps to successfully sign up:
+
+1. Enter a Unique Username:
+Enter a unique username that hasn't been used by others. Your username will be used to log in.
+
+2. Enter a Strong Password: 
+Enter a password of medium or high strength. Your password must have at least: 2 Lowercase characters, 2 Uppercase characters, 1 Number, 1 Special character, and is 8 characters or longer.
+Then, re-enter your password in the confirmation edit box to ensure accuracy. It will turn green if it matches your original password.
+
+3. Enter a First and Last Name:
+Provide your first and last name for program personalization.
+
+4. Select your Country: 
+Choose your country from the dropdown list. A default country may already be selected.
+
+5. Enter your Contact Number: 
+Enter a 10-digit contact number without spaces. Only numbers are allowed.
+
+6. Enter your Email Address: 
+Enter your email address. It should include an "@" symbol and a "." character.
+Then, re-enter your email address in the confirmation edit box to ensure accuracy. It will turn green if it matches your original email address.
+
+7. Select your Date of Birth: 
+Use the date time picker to select your date of birth. You must select a date that has already passed. If you're younger than 13, ask an adult to sign up for you.
+
+8. Select your Gender: 
+Choose your gender from the dropdown list.
+
+9. Click the sign up button
+
+
+* Login Option:
+If you already have an account, you can return to the Login Form by clicking the blue "Click here to Login" text.
+
+* Reset Button:
+If you need to clear the entered information and start over, you can use the "Reset" button. This will reset all the fields on this form.
+
+
+Frequently Asked Questions (FAQs):
+
+1. Can I change my username later? 
+ No, your username is not changeable after signup. Make sure to choose it wisely.
+
+2. What if I forget my password? 
+ Contact an administrator to reset your password; you can't change it on your own.
+
+3. Can I edit my personal information later?
+ No, you cannot update your personal information after signup on your own. If you need to change your personal information, you can do so by contacting an administrator.
+
+If you encounter any errors or issues during the signup process or have questions, feel free to contact a developer or administrator.
+
+Thank you for using the Login Form to access the Carbon Footprint Calculator! Your commitment to reducing your carbon footprint is appreciated!

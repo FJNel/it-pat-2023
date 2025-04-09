@@ -1,0 +1,73 @@
+ELECTRICITY HELP
+
+This form consists of TWO main panels. 
+
+Panel 1: Main Grid Electricity
+
+1. Enter Electricity Units:
+Enter the amount of electricity units used. 1 Unit = 1 KWh. Alternatively, you can use the provided button to calculate it.
+
+2. Select Electricity Generation Method:
+Choose the electricity generation method from the combo box. This indicates how your electricity is sourced.
+
+3. Choose Date (Optional):
+If you know how it works, you can select a date from the date-time picker to associate with this calculation. If not, today's date will be used.
+
+4. Click "Calculate":
+After entering the necessary information, click the "Calculate" button to calculate and display your carbon footprint based on your electricity usage.
+
+
+Panel 2: Other Electricity Source
+
+1. Select Generator:
+Choose a generator from the combo box. The generator's information will appear in the rich edit. If your generator is not listed, you can add one (more information below)
+
+2. Enter Fuel Consumption:
+Enter the amount of fuel consumed by the generator. Alternatively, you can use the provided button to calculate it.
+
+3. Choose Date (Optional):
+If you know how it works, you can select a date from the date-time picker to associate with this calculation. If not, today's date will be used.
+
+4. Click "Calculate":
+After entering the necessary information, click the "Calculate" button to calculate and display your carbon footprint based on your electricity usage.
+
+
+Adding a Generator (Optional):
+
+1. Click "Add or":
+On Panel 2, you have the option to add a new generator. Click the "Add or" button to initiate this process.
+
+2. Enter Generator's Information:
+   - Enter the Generator Name and Brand.
+   - Select the generator's fuel type.
+   - Specify the generator's capacity in kVA or KWh.
+   - Enter the amount of CO2e emitted per litre of fuel consumed.
+
+3. Click "Add":
+After entering the required information, click "Add" to save the generator details. The added generator will now be available for selection for all users. It will automatically be selected when you are taken back to Panel 2.
+
+
+Saving Your Carbon Footprint:
+
+1. Click "Submit":
+On both Panel 1 and 2, after calculating and viewing your calculated carbon footprint, click the "Submit" button to save the calculated data to the database.
+
+
+* Reset (↺) Button:
+If you need to clear the entered information and start over, you can use the "Reset" button. This will reset all the fields on the panel where the button is clicked. 
+
+
+Frequently Asked Questions (FAQs):
+
+1. Can I calculate my carbon footprint without changing the date?
+ Yes, you can calculate your carbon footprint without cahnging the date. The date field is today's date by default. Click the "?" next to the field for more information.
+
+2. Is adding a generator mandatory for the calculation?
+ No, adding a generator is optional. It's only required if you want to include a generator's emissions in your carbon footprint calculation that isn't already listed in the combo box.
+
+3. Can I edit/delete my submitted calculation later?
+ No, you cannot edit or delete any of your entries after they have been submitted. 
+
+If you encounter any errors or issues during the signup process or have questions, feel free to contact a developer or administrator.
+
+Thank you for using the Login Form to access the Carbon Footprint Calculator! Your commitment to reducing your carbon footprint is appreciated!

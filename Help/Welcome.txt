@@ -1,0 +1,44 @@
+USER DASHBOARD
+
+In the User Dashboard, you can explore your carbon footprint journey and take steps towards reducing your environmental impact. This interface provides valuable insights and tools to help you track and manage your carbon emissions.
+
+
+On this form, you can see the following:
+
+Carbon Footprint:
+- "Carbon Footprint" is the sum of all your recorded entries, indicating your environmental impact.
+- "Your Status" gives you a quick understanding of how your carbon footprint compares to other users.
+- The colored square represents your carbon footprint status, ranging from dark green (super low) to dark red (super high). Click on the square to refresh the page and get the latest data.
+  
+Average Carbon Footprint:
+- This value showcases the average carbon footprint of all users with a carbon footprint above 0. It provides context on how you're doing compared to others.
+
+Rich Edit: Carbon Footprint Entries:
+- This section displays each entry you've saved in the database, sorted in ascending order based on submission date.
+- Information included for each entry: Entry No, Date Submitted, CO2e Emitted, Emission Type, and Total Carbon Footprint up to that point.
+
+Graph: Carbon Footprint Visualization:
+- The "Total" series visually illustrates your total carbon footprint over time.
+- The "Individual" series demonstrates your carbon footprint for each entry.
+- Use the right mouse button to navigate within the graph.
+
+"Expand Graph" Button:
+- Click this button to maximize the graph's view, allowing you to focus on the visual representation of your carbon footprint journey.
+
+"Tips" Button:
+- Access a new panel that summarizes your carbon footprint data and offers personalized tips based on your carbon footprint status.
+- Tips are tailored to help you reduce your carbon footprint based on your performance compared to other users.
+
+
+FAQs: Frequently Asked Questions
+
+1. Can I edit or delete my entries?
+ No, you cannot edit or delete any of your entries after they have been submitted. 
+
+2. How often should I update my carbon footprint entries?
+ Regularly updating your entries provides an accurate reflection of your carbon emissions. Aim for consistency, by doing it on a regular schedule (e.g. Every week on Sunday)
+
+
+If you encounter any errors or issues during the signup process or have questions, feel free to contact a developer or administrator.
+
+Thank you for using the Login Form to access the Carbon Footprint Calculator! Your commitment to reducing your carbon footprint is appreciated!

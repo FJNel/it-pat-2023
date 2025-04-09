@@ -1,0 +1,27 @@
+LOGIN HELP
+
+The Login Form is used to sign into the Carbon Footprint Calculator program. Follow these steps to successfully log in:
+
+1. Enter your Username and Password: 
+Enter your username and password in the respective edit boxes. Make sure to type them correctly to ensure a successful login.
+
+2. Press the Login Button: 
+After entering your username and password, click the "Login" button to validate your username and password and access the Carbon Footprint Calculator.
+
+* Signup Option:
+If you don't have an account yet, you can sign up by clicking the blue "Click here to Sign Up" text. This will take you to the Signup Form, where you can create a new account.
+
+* Reset Button: 
+If you need to clear the entered information and start over, you can use the "Reset" button. This will reset both the username and password fields.
+
+
+Frequently Asked Questions (FAQs):
+
+1. What if I forget my password? Can I change my password?
+ Contact an administrator to reset your password. Unfortunately, You cannot change your password on your own. 
+2. Can I change my username? 
+ No, your username is not changeable after sign up. Make sure to choose it wisely.
+
+If you encounter any errors or issues during the login process or have questions, feel free to contact a developer or administrator.
+
+Thank you for using the Login Form to access the Carbon Footprint Calculator! Your commitment to reducing your carbon footprint is appreciated!

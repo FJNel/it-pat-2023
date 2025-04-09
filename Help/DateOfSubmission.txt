@@ -1,0 +1,38 @@
+WHAT IS THE DATE OF SUBMISSION?
+
+The Date of Submission is an important element in the Carbon Footprint Calculator. It represents the date on which you submitted your carbon footprint calculation. Here's what you need to know about the Date of Submission:
+
+The Date of Submission is the specific date when you provided data to the calculator, and then submitted it. It helps track the timeline of your carbon footprint, and how it changes over time.
+
+
+Recommended: Keep it Today's Date
+It is recommended to set the Date of Submission as today's date, especially if you're submitting your carbon footprint on the same day. This ensures accurate and up-to-date record keeping.
+
+Modifying the Date: Past or Future
+In some cases, you might want to set the Date of Submission to a past or future date. For example, if you forgot to submit your carbon footprint data on a specific day but still want to include it, you can adjust the Date of Submission accordingly.
+
+
+Instructions for Changing the Date:
+
+1. Click on the Date of Submission field.
+2. A date picker will appear.
+3. Select the desired date, whether it's in the past, present, or future.
+
+
+Important Considerations:
+
+* Make sure to set the Date of Submission accurately to reflect the correct timeline of your carbon footprint and how it changes.
+
+* Only select a past or future date if you know what you're doing.
+
+
+Frequently Asked Questions (FAQs):
+
+1. Can I change the Date of Submission later? 
+ No, you cannot modify the Date of Submission for a certain calculation at all after you clicked the Submit button.
+2. Will the Date of Submission affect my previous calculations? 
+ Yes, if you select a past or future date, it will affect when your carbon footprint is changed.
+ 
+If you encounter any errors or issues during the login process or have questions, feel free to contact a developer or administrator.
+
+Thank you for using the Login Form to access the Carbon Footprint Calculator! Your commitment to reducing your carbon footprint is appreciated!

@@ -1,0 +1,63 @@
+EDIT DATABASES HELP
+Managing databases.
+
+Within this interface, you hold the power to add, edit, and print important carbon footprint data. Here's a guide to seamlessly navigate these functions:
+
+
+Add/Edit Emission Type:
+
+1. Select Emission Type: 
+Choose an emission type from the combo box.
+
+2. Edit Emission Value: 
+The current CO2e emitted will appear in the text box. Modify it according to your desired value.
+
+3. Click Edit: 
+Update the database entry with the new emission value.
+
+
+1. Add New Emission Type: 
+If creating a new emission type, enter a name in the edit box (excluding "E " or "G ").
+
+2. Input CO2e Value:
+Provide the CO2e emitted value for the new emission type.
+
+3. Click Add:
+Incorporate the new emission type and its associated data into the database.
+
+
+Edit/Delete Generator:
+
+1. Select Generator: 
+Choose a generator from the combo box.
+
+2. Edit Generator Info: 
+The generator's details will be loaded into relevant text boxes. Modify these fields as needed.
+
+3. Click Edit: 
+Update the generator's information. Note that the "EmissionType" will remain unchanged, potentially causing confusion for standard users.
+
+
+1. Select Generator: Choose a generator from the combo box.
+
+2. Click Delete: 
+Remove the generator entry from tblGenerators. Remember, this deletion only affects the tblGenerators table, as it is still required for users who have previously utilized it.
+
+
+Print Carbon Footprint:
+
+* Populated Rich Edit: 
+The rich edit area is already filled with user carbon footprint information.
+
+* Update Content: 
+Refresh this information by clicking the Update button.
+
+* Print:
+Make use of the default printer to print the content by clicking the Print button.
+
+
+* Reset Buttons:
+If you need to clear the entered information and start over, you can use the "Reset" button. This will reset all the fields on the panel on which the button is located.
+
+
+If you encounter any errors or issues during the signup process or have questions, feel free to contact a developer.
