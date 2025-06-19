@@ -12,14 +12,14 @@
 
 ## Overview
 
-The **Carbon Footprint Calculator** is a desktop application developed for the Grade 12 I.T. PAT. It helps users calculate their personal carbon footprint based on electricity usage and fuel consumption. The program also educates users on climate change and provides tips to reduce their environmental impact.
+The **Carbon Footprint Calculator** is a desktop application developed for my Grade 12 IT PAT. It helps users calculate their personal carbon footprint based on electricity usage and fuel consumption. The program also educates users on climate change and provides tips to reduce their environmental impact.
 
 ---
 
 ## Purpose
 
 This program is designed to:
-- Show users how their lifestyle contributes to carbon emissions.
+- Show users how their lifestyle and electricity usage contributes to carbon emissions.
 - Provide tips on how to reduce their carbon footprint.
 - Allow administrators to maintain accurate emission data for better calculations.
 
